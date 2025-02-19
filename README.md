@@ -36,3 +36,4 @@
   </a>
 </div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@eun718)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole)
