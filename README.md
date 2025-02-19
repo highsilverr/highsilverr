@@ -34,6 +34,9 @@
   <a href="mailto:ye90202@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+ <a href="https://velog.io/@eun718">
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=Blog" alt="Velog Badge">
+</a>
+
 </div>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@eun718)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@eungyeole)
